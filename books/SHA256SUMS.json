@@ -1,0 +1,17 @@
+[
+  {
+    "file": "books/Windows_CMD_Mastery_Volume1.pdf",
+    "size_bytes": 277685,
+    "sha256": "36ad80ce9aef0a9c23a5a7c710333f14ffc4ed539d36df96f86e1faad49af30e"
+  },
+  {
+    "file": "books/Windows_CMD_Mastery_Volume2.pdf",
+    "size_bytes": 343127,
+    "sha256": "afbd13f345256a9294dc12e883a13e984dbc8f6191491fc7e28aa2a8186a3756"
+  },
+  {
+    "file": "books/Windows_CMD_Mastery_Volume3.pdf",
+    "size_bytes": 257083,
+    "sha256": "7a255912326a49800463bd559b61933ac4b7f042db3f0d4f38c11dd37226c627"
+  }
+]
